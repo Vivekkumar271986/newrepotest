@@ -1,0 +1,12 @@
+{
+  "uuid": "24719eed-4793-4091-86a0-3fa56eb59147",
+  "name": "TestProjectVkDec2024.SeleniumC_.FileDownload.DownloadFile",
+  "children": [
+    "28cf0e2b-d475-48af-9cc5-a26ee1cdc3c9"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734623453607,
+  "stop": 1734623512854
+}

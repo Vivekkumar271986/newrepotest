@@ -1,0 +1,12 @@
+{
+  "uuid": "8958ac27-c583-47ed-b06d-ab62847a252e",
+  "name": "TestProjectVkDec2024.NUnitTests.TestOrder.Registration",
+  "children": [
+    "92836aae-6727-4f5c-90c0-3590eed51a17"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734003667459,
+  "stop": 1734003667483
+}

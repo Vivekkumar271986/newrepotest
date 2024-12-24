@@ -1,0 +1,12 @@
+{
+  "uuid": "57d41599-5d0b-4cf6-9321-e3cd51479fcb",
+  "name": "TestProjectVkDec2024.NUnitTests.TestOrder.login",
+  "children": [
+    "87f84206-6dea-4f0d-8628-a0ab471f54e3"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734071635652,
+  "stop": 1734071635654
+}

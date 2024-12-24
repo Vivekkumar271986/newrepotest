@@ -1,0 +1,12 @@
+{
+  "uuid": "9c42a71f-8842-42d1-9238-a35fc88d8054",
+  "name": "TestProjectVkDec2024.NUnitTests.Soundarya.CustomerLogin(\"user2\")",
+  "children": [
+    "9868ab6f-2e8a-4f41-b042-0f59e93d1bc5"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734105709290,
+  "stop": 1734105709325
+}

@@ -1,0 +1,55 @@
+{
+  "uuid": "61306e3a-50a1-40a3-8803-03f680061d9c",
+  "historyId": "e90321a8bd444f95d350ab498476b138",
+  "testCaseId": "bc9b887d3b346289ee59093a7139db52",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.SeleniumC_.FileDownloadandUpload.UploadFile()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#9"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "UploadFile"
+    },
+    {
+      "name": "testClass",
+      "value": "FileDownloadandUpload"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "UploadFile",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "43780bde-5ed8-4b6d-957f-28a0dc4ce84a-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734624433838,
+  "stop": 1734624478599
+}

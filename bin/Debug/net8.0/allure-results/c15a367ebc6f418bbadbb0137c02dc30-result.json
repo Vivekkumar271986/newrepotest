@@ -1,0 +1,51 @@
+{
+  "uuid": "a78e450d-67c5-453d-a795-daaf661f3129",
+  "historyId": "7f58affa04e07ee3891b92331e86d007",
+  "testCaseId": "f0098a5b9df594a63f410c488f18abf5",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.NUnitTests.TestOrder.payment()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.NUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "payment"
+    },
+    {
+      "name": "testClass",
+      "value": "TestOrder"
+    }
+  ],
+  "links": [],
+  "name": "payment",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "08df40cf-07ce-4700-9cf9-5246d2296fb0-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734003667497,
+  "stop": 1734003667498
+}

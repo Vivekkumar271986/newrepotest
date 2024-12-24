@@ -1,0 +1,45 @@
+{
+  "uuid": "114468be-b4db-47f4-bc5f-3cff6077b2d0",
+  "historyId": "e20989263ec2f7ec88079dec16b47fa6",
+  "testCaseId": "72930934df0afb161b64c97f59349703",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.SeleniumC_.NavigationalCommands.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "NavigationalCommands"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734611306150,
+  "stop": 1734611333169
+}

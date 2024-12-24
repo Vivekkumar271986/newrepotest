@@ -1,0 +1,58 @@
+{
+  "uuid": "f0060d51-93a5-4abd-930e-3ed2661902de",
+  "historyId": "7b8011c4981ff5d6f12d127ebf06257c",
+  "testCaseId": "5bf96ee4d897e3a7b60d80ba689de2c4",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.SeleniumC_.WindowsTabHandling.ParentandChildTabNavigation()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "ParentandChildTabNavigation"
+    },
+    {
+      "name": "testClass",
+      "value": "WindowsTabHandling"
+    }
+  ],
+  "links": [],
+  "name": "ParentandChildTabNavigation",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 10 but was 0. Strings differ at index 0.\r\n  Expected: \"New Window\"\r\n  But was:  <string.Empty>\r\n  -----------^\r\n",
+    "trace": "   at TestProjectVkDec2024.SeleniumC_.WindowsTabHandling.ParentandChildTabNavigation() in C:\\Users\\vikum\\source\\repos\\TestProjectVkDec2024\\TestProjectVkDec2024\\SeleniumC#\\WindowsTabHandling.cs:line 53\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "77322a8c-440a-4c3b-982a-c9da7979d27d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734600292396,
+  "stop": 1734600306069
+}

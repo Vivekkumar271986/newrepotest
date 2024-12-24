@@ -1,0 +1,51 @@
+{
+  "uuid": "7a86494a-fd53-4f8d-ae0b-ad45faeba5fd",
+  "historyId": "c9fd79752bd14fadbebda2448944027d",
+  "testCaseId": "7d777de2dacab30fbbfe4e3198e3b8a8",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.NUnitTests.TestOrder.addtocart()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.NUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "addtocart"
+    },
+    {
+      "name": "testClass",
+      "value": "TestOrder"
+    }
+  ],
+  "links": [],
+  "name": "addtocart",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "a3d626c2-a982-4579-a42c-72ebd6d865ed-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734003667493,
+  "stop": 1734003667494
+}

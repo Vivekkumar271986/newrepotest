@@ -1,0 +1,4 @@
+Page title of launched Page: The Internet
+'Click Here' button clicked
+Parent Window: 5e1db545-9790-4449-860a-73af0e1722b2
+Child Window: b945abc3-8bad-44a7-88e9-3121c3ad7bfc

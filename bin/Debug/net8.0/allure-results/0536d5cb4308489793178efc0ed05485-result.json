@@ -1,0 +1,58 @@
+{
+  "uuid": "c086aab5-4db4-43c4-86f9-1558b92d8a46",
+  "historyId": "327e54565de0369711d5e320244d254b",
+  "testCaseId": "a5e694cd7081ed6d899cbbecb84602c4",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.SeleniumC_.WindowsTabHandling.ScrollDownAndClick()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "ScrollDownAndClick"
+    },
+    {
+      "name": "testClass",
+      "value": "WindowsTabHandling"
+    }
+  ],
+  "links": [],
+  "name": "ScrollDownAndClick",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 10 but was 0. Strings differ at index 0.\r\n  Expected: \"New Window\"\r\n  But was:  <string.Empty>\r\n  -----------^\r\n",
+    "trace": "   at TestProjectVkDec2024.SeleniumC_.WindowsTabHandling.ScrollDownAndClick() in C:\\Users\\vikum\\source\\repos\\TestProjectVkDec2024\\TestProjectVkDec2024\\SeleniumC#\\WindowsTabHandling.cs:line 52\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "ea006668-cf01-47e2-a9d9-7712adad4232-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734599596689,
+  "stop": 1734599610560
+}

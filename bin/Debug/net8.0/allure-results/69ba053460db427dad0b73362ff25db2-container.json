@@ -1,0 +1,12 @@
+{
+  "uuid": "cb80afb9-1187-4aed-b96e-132d55c15a4b",
+  "name": "TestProjectVkDec2024.SeleniumC_.WindowsTabHandling.ParentAndChildTabNavigation",
+  "children": [
+    "0031af38-a864-4aa8-919b-a4fc1b2605a8"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734601693711,
+  "stop": 1734601707757
+}

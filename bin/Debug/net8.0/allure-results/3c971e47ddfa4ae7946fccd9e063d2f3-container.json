@@ -1,0 +1,13 @@
+{
+  "uuid": "8ab2dba3-48f5-4b07-9844-ef27121dcb6e",
+  "name": "TestProjectVkDec2024.NUnitTests.Soundarya",
+  "children": [
+    "9868ab6f-2e8a-4f41-b042-0f59e93d1bc5",
+    "a018e3d8-ac37-44e1-bce1-22d2a616e3c7"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734105709274,
+  "stop": 1734105709356
+}

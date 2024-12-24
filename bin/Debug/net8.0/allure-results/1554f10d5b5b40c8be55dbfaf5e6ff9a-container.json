@@ -1,0 +1,12 @@
+{
+  "uuid": "396d6832-061d-4b32-9397-9929d23d89ed",
+  "name": "TestProjectVkDec2024.SeleniumC_.WindowsTabHandling.ScrollDownAndClick",
+  "children": [
+    "c086aab5-4db4-43c4-86f9-1558b92d8a46"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734599596689,
+  "stop": 1734599610582
+}

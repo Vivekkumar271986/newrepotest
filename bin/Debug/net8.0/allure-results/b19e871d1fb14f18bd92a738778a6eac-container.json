@@ -1,0 +1,12 @@
+{
+  "uuid": "78b541cc-22e7-4588-9d8a-0d7fff3d813e",
+  "name": "TestProjectVkDec2024.SeleniumC_.NavigationalCommands",
+  "children": [
+    "3d82cbe2-5b61-4bab-beb8-94ce4278c1f2"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734601013910,
+  "stop": 1734601036169
+}

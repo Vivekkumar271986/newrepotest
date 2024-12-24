@@ -1,0 +1,12 @@
+{
+  "uuid": "474df19c-aa72-44da-9b56-175de6d7c5a6",
+  "name": "TestProjectVkDec2024.SeleniumC_.BrowserCommands",
+  "children": [
+    "72c9fa02-66d5-4b8b-b1d3-80dbba86e9f1"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591316373,
+  "stop": 1734591330400
+}

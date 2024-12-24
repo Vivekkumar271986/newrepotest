@@ -1,0 +1,12 @@
+{
+  "uuid": "eb9e4daf-0c51-4a44-8ea6-249af6d23921",
+  "name": "TestProjectVkDec2024.NUnitTests.TestOrder.payment",
+  "children": [
+    "a78e450d-67c5-453d-a795-daaf661f3129"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734003667497,
+  "stop": 1734003667500
+}

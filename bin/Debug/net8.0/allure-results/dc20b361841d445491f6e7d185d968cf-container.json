@@ -1,0 +1,12 @@
+{
+  "uuid": "3d5b357a-3d34-4d3b-abcf-7f664879f43f",
+  "name": "TestProjectVkDec2024.SeleniumC_.Alerts.herokuappcheckbox",
+  "children": [
+    "7148e736-87bc-4b27-a92e-4f23cc90f959"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591292895,
+  "stop": 1734591316358
+}

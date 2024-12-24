@@ -1,0 +1,51 @@
+{
+  "uuid": "3fb82226-c383-4488-9ab8-026fdc72af5c",
+  "historyId": "59ed18b7455b909345622dabb7510108",
+  "testCaseId": "94c9421dc43c4f4bbc888e391725c0fb",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.SeleniumC_.WindowsTabHandling.ParentAndChildTabNavigation()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "ParentAndChildTabNavigation"
+    },
+    {
+      "name": "testClass",
+      "value": "WindowsTabHandling"
+    }
+  ],
+  "links": [],
+  "name": "ParentAndChildTabNavigation",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "0bc5c053-db45-4f4d-a9df-be2a9045e095-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734601608318,
+  "stop": 1734601622550
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "ed6273b2-7ccf-4727-af5d-98497e4a5cbf",
+  "name": "TestProjectVkDec2024.NUnitTests.TestOrder.addtocart",
+  "children": [
+    "7a86494a-fd53-4f8d-ae0b-ad45faeba5fd"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734003667493,
+  "stop": 1734003667495
+}

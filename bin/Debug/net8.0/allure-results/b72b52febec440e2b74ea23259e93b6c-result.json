@@ -1,0 +1,55 @@
+{
+  "uuid": "7148e736-87bc-4b27-a92e-4f23cc90f959",
+  "historyId": "96fb5dc3b910e83de4b6c70110661aac",
+  "testCaseId": "ea605a451d420fdbacc439d7da630a7e",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.SeleniumC_.Alerts.herokuappcheckbox()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "herokuappcheckbox"
+    },
+    {
+      "name": "testClass",
+      "value": "Alerts"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "herokuappcheckbox",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "2471f570-d268-4005-b06e-58fbbca4d743-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734591292897,
+  "stop": 1734591316324
+}

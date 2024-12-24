@@ -1,0 +1,15 @@
+{
+  "uuid": "a8ddcbbe-51e2-4291-960a-c075e5bb89c7",
+  "name": "TestProjectVkDec2024.NUnitTests.TestOrder",
+  "children": [
+    "544b5c49-e014-43a4-a459-21f53b1c4903",
+    "87f84206-6dea-4f0d-8628-a0ab471f54e3",
+    "5ec20e47-e27a-40c5-bd90-e0c2d12e4d6f",
+    "354e8dd9-be30-4cd3-97d1-e8b6834f6a85"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734071635596,
+  "stop": 1734071635669
+}

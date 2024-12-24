@@ -1,0 +1,12 @@
+{
+  "uuid": "dc19dae5-74b7-4134-be50-7a5f80c3bb03",
+  "name": "TestProjectVkDec2024.SeleniumC_.FileDownloadandUpload.UploadFile",
+  "children": [
+    "49c1309b-06fa-4693-9406-fcd389fe31df"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734620306607,
+  "stop": 1734620325021
+}

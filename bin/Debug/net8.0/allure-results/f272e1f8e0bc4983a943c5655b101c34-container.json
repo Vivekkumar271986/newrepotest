@@ -1,0 +1,12 @@
+{
+  "uuid": "80e0c5cc-a2e1-4e52-8307-6fd58eca54b8",
+  "name": "TestProjectVkDec2024.SeleniumC_.Alerts",
+  "children": [
+    "7148e736-87bc-4b27-a92e-4f23cc90f959"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591292875,
+  "stop": 1734591316368
+}

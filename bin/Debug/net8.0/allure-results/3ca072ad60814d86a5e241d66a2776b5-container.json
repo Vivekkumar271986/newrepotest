@@ -1,0 +1,12 @@
+{
+  "uuid": "659370a5-b5dc-4647-9e89-cc7c216895de",
+  "name": "TestProjectVkDec2024.SeleniumC_.WindowsTabHandling",
+  "children": [
+    "de4aeeb0-53dd-4481-95db-2efdfebd7bb4"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734600917611,
+  "stop": 1734600932532
+}

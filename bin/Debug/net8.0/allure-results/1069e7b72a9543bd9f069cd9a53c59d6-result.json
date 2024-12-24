@@ -1,0 +1,62 @@
+{
+  "uuid": "0f5733cf-f304-4a17-bd91-9b30ffa52e16",
+  "historyId": "f27ad522b9714e6fd6827b4aeade77f1",
+  "testCaseId": "e274b647134d54aa9adf7afd54502d38",
+  "fullName": "TestProjectVkDec2024:TestProjectVkDec2024.SeleniumC_.FileDownloadandUpload.DownloadFile()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "AUTOE9IQEUIF8FC"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectVkDec2024.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "DownloadFile"
+    },
+    {
+      "name": "testClass",
+      "value": "FileDownloadandUpload"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "DownloadFile",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "TearDown : System.NullReferenceException : Object reference not set to an instance of an object.",
+    "trace": "--TearDown\r\n   at OpenQA.Selenium.DriverService.Stop()\r\n   at OpenQA.Selenium.DriverService.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.DriverService.Dispose()\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Dispose()\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.ExecuteAsync(Command commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.Firefox.FirefoxDriver.Dispose(Boolean disposing)\r\n   at OpenQA.Selenium.WebDriver.Dispose()\r\n   at OpenQA.Selenium.WebDriver.Quit()\r\n   at TestProjectVkDec2024.SeleniumC_.FileDownloadandUpload.tearDown() in C:\\Users\\vikum\\source\\repos\\TestProjectVkDec2024\\TestProjectVkDec2024\\SeleniumC#\\FileDownloadandUpload.cs:line 115\r\n   at InvokeStub_FileDownloadandUpload.tearDown(Object, Object, IntPtr*)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "9cf2fdbe-4f60-4860-b026-9e2be44d98ab-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734593197407,
+  "stop": 1734593214009
+}
